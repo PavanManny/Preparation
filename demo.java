@@ -5,6 +5,4 @@ class {
 System.out.println("This is String Program");
 
 Git Rebase
-
-// Git revert
 }
